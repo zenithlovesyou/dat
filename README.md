@@ -34,7 +34,7 @@ Built in Rust with a full interactive TUI — think `jq` meets `less`, with a re
 ### From source
 
 ```bash
-git clone https://github.com/iamzephlol/dat.git
+git clone https://github.com/zenithlovesyou/dat.git
 cd dat
 cargo build --release
 ```
